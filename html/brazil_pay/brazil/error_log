@@ -1,0 +1,28 @@
+[10-Aug-2019 08:59:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S ROAD CENTRAL HONG KONG
+Bank Name	HSBC HONG KONG
+Account No.	7878967896987654' at line 1 in /home/z55piaciqrid/public_html/brazil_pay/withdraw_handle.php:47
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/withdraw_handle.php(47): PDO->exec('INSERT INTO `wi...')
+#1 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/withdraw_handle.php on line 47
+[29-Aug-2019 10:47:23 UTC] PHP Notice:  Undefined variable: user in /home/z55piaciqrid/public_html/brazil_pay/pdo_class_data.php on line 30
+[29-Aug-2019 10:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php:19
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php(19): PDO->exec('UPDATE `users` ...')
+#1 /home/z55piaciqrid/public_html/brazil_pay/sent_tokens.php(1): require('/home/z55piaciq...')
+#2 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php on line 19
+[29-Aug-2019 18:10:02 UTC] PHP Notice:  Undefined variable: user in /home/z55piaciqrid/public_html/brazil_pay/pdo_class_data.php on line 30
+[29-Aug-2019 18:10:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php:19
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php(19): PDO->exec('UPDATE `users` ...')
+#1 /home/z55piaciqrid/public_html/brazil_pay/buy.php(1): require('/home/z55piaciq...')
+#2 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php on line 19
+[29-Aug-2019 18:10:02 UTC] PHP Notice:  Undefined variable: user in /home/z55piaciqrid/public_html/brazil_pay/pdo_class_data.php on line 30
+[29-Aug-2019 18:10:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php:19
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php(19): PDO->exec('UPDATE `users` ...')
+#1 /home/z55piaciqrid/public_html/brazil_pay/buy.php(1): require('/home/z55piaciq...')
+#2 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/includes/header_start.php on line 19

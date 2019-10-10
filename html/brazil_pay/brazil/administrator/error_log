@@ -1,0 +1,288 @@
+[12-Jul-2019 07:57:04 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 90
+[12-Jul-2019 07:59:02 UTC] PHP Notice:  Undefined index: user_transaction_limit in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 74
+[12-Jul-2019 07:59:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 07:59:12 UTC] PHP Notice:  Undefined index: user_transaction_limit in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 74
+[12-Jul-2019 07:59:12 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 08:01:12 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 08:02:35 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 08:02:38 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 09:58:39 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 10:01:07 UTC] PHP Notice:  Undefined variable: from in /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php on line 99
+[12-Jul-2019 18:23:20 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[12-Jul-2019 18:24:03 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[12-Jul-2019 18:24:27 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/support_requests.php on line 120
+[12-Jul-2019 18:24:32 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[12-Jul-2019 18:26:17 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[14-Jul-2019 19:42:27 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[14-Jul-2019 19:43:14 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[14-Jul-2019 19:45:56 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[15-Jul-2019 11:40:13 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[15-Jul-2019 13:31:50 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[15-Jul-2019 13:31:50 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[15-Jul-2019 13:31:50 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[15-Jul-2019 13:31:50 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[15-Jul-2019 13:50:18 UTC] PHP Notice:  Undefined variable: to_username in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 50
+[15-Jul-2019 13:50:18 UTC] PHP Notice:  Undefined index: balance in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 57
+[15-Jul-2019 13:50:32 UTC] PHP Notice:  Undefined variable: to_username in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 50
+[15-Jul-2019 13:50:32 UTC] PHP Notice:  Undefined index: balance in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 57
+[15-Jul-2019 13:50:48 UTC] PHP Notice:  Undefined variable: to_username in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 50
+[15-Jul-2019 13:50:48 UTC] PHP Notice:  Undefined index: balance in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_tx_limit_user.php on line 57
+[15-Jul-2019 14:30:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2013  in /home/z55piaciqrid/public_html/brazil_pay/administrator/modal.php:10
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/administrator/modal.php(10): PDOStatement->execute()
+#1 /home/z55piaciqrid/public_html/brazil_pay/administrator/view_transfers.php(122): include('/home/z55piaciq...')
+#2 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/administrator/modal.php on line 10
+[15-Jul-2019 14:30:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/z55piaciqrid/public_html/brazil_pay/administrator/notifications.php:5
+Stack trace:
+#0 /home/z55piaciqrid/public_html/brazil_pay/administrator/notifications.php(5): PDO->__construct('mysql:host=127....', 'brazil', 'brazil123456789...', Array)
+#1 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/administrator/notifications.php on line 5
+[03-Aug-2019 07:19:25 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:19:25 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:19:25 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:19:25 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:19:27 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:19:27 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:19:27 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:19:27 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:21:40 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:21:40 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:00 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:00 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:22:00 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:00 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:22:30 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:30 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:22:30 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:30 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:22:39 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:39 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:22:39 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 77
+[03-Aug-2019 07:22:39 UTC] PHP Notice:  Undefined index: kyc_approved in /home/z55piaciqrid/public_html/brazil_pay/administrator/users.php on line 78
+[03-Aug-2019 07:27:34 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:27:34 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:27:34 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:27:34 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:27:41 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:27:41 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:27:41 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:27:41 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:12 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:12 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:12 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:12 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:36 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:36 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:36 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:36 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:53 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:53 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:53 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:53 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 07:28:57 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:57 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 07:28:57 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:57 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 07:28:57 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 07:31:13 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 07:31:15 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[03-Aug-2019 07:31:16 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 07:32:59 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 07:33:01 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 08:00:41 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[03-Aug-2019 09:30:39 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[03-Aug-2019 09:30:41 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 09:30:49 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 09:30:53 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:11:55 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[03-Aug-2019 15:17:29 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 15:17:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 15:20:45 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:21:17 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:21:21 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:21:50 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:21:53 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:22:35 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:22:43 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:23:09 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:23:10 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:23:10 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:23:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:24:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 15:24:45 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 15:29:46 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:29:46 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:29:46 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:29:46 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:29:46 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 15:30:07 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 15:31:25 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:31:25 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:31:25 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:31:25 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:31:25 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 15:31:47 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:36:23 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 15:36:31 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[03-Aug-2019 15:36:32 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 15:44:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 15:47:57 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:48:49 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:48:59 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:49:18 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:49:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:50:45 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:50:45 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 100
+[03-Aug-2019 15:53:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 15:53:26 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 15:53:49 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 15:54:37 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 15:54:47 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 15:57:28 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:57:28 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:57:28 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:57:28 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:57:28 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 15:58:13 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:58:13 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:58:13 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:58:13 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:58:13 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 15:58:34 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:58:34 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 15:58:34 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:58:34 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 15:58:34 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 23
+[03-Aug-2019 16:00:26 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 16:00:26 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 16:00:26 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 16:00:26 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 16:02:14 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 16:02:14 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[03-Aug-2019 16:02:14 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 16:02:14 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[03-Aug-2019 16:03:44 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 16:04:23 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[03-Aug-2019 16:04:24 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 16:39:40 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[03-Aug-2019 17:43:37 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 17:43:40 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 18:15:19 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:16:09 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:16:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:56:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:58:03 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:58:26 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 18:58:42 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 96
+[03-Aug-2019 19:00:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 107
+[03-Aug-2019 19:01:57 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:03:58 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:04:42 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:04:51 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:05:16 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:05:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:05:23 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:05:29 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 19:09:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 20:22:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 20:22:27 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 20:24:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 20:24:19 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[03-Aug-2019 20:24:19 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[03-Aug-2019 20:25:03 UTC] PHP Warning:  A non-numeric value encountered in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 24
+[03-Aug-2019 20:25:03 UTC] PHP Notice:  Undefined variable: stmt in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 34
+[03-Aug-2019 20:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 34
+[03-Aug-2019 20:25:29 UTC] PHP Warning:  A non-numeric value encountered in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 24
+[03-Aug-2019 20:25:29 UTC] PHP Notice:  Undefined variable: stmt in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 34
+[03-Aug-2019 20:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/z55piaciqrid/public_html/brazil_pay/administrator/add_user_value_handle.php on line 34
+[03-Aug-2019 20:33:16 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 20:34:05 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[03-Aug-2019 20:35:15 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[03-Aug-2019 20:35:21 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[04-Aug-2019 08:40:25 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[04-Aug-2019 08:42:21 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[04-Aug-2019 08:46:48 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[04-Aug-2019 08:46:53 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[04-Aug-2019 08:55:39 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[04-Aug-2019 08:55:39 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[04-Aug-2019 08:55:39 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[04-Aug-2019 08:55:39 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[04-Aug-2019 10:04:15 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[04-Aug-2019 10:04:31 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[04-Aug-2019 10:04:31 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[04-Aug-2019 10:04:31 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[04-Aug-2019 10:04:31 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[04-Aug-2019 10:04:31 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 29
+[04-Aug-2019 10:20:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[04-Aug-2019 10:20:46 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[04-Aug-2019 10:20:47 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[04-Aug-2019 10:20:49 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[05-Aug-2019 06:14:16 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[14-Aug-2019 13:56:14 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[14-Aug-2019 13:56:24 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[14-Aug-2019 13:59:26 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[14-Aug-2019 13:59:26 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[14-Aug-2019 13:59:26 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[14-Aug-2019 13:59:26 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[14-Aug-2019 13:59:26 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 29
+[14-Aug-2019 14:00:56 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[14-Aug-2019 14:01:09 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/resolved_kyc.php on line 30
+[14-Aug-2019 14:01:13 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/kyc.php on line 98
+[18-Aug-2019 21:42:46 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[29-Aug-2019 10:57:05 UTC] PHP Warning:  include(add_notification_user.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[29-Aug-2019 10:57:05 UTC] PHP Warning:  include(): Failed opening 'add_notification_user.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 2
+[29-Aug-2019 10:57:05 UTC] PHP Warning:  include(administrator/function.php): failed to open stream: No such file or directory in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[29-Aug-2019 10:57:05 UTC] PHP Warning:  include(): Failed opening 'administrator/function.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 3
+[29-Aug-2019 10:57:06 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/verify_user.php on line 29
+[29-Aug-2019 10:57:45 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/update_price.php on line 108
+[29-Aug-2019 18:13:29 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[29-Aug-2019 18:22:23 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[29-Aug-2019 18:23:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/z55piaciqrid/public_html/brazil_pay/administrator/buy_requests.php on line 105
+[29-Aug-2019 19:01:41 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
+[29-Aug-2019 19:41:56 UTC] PHP Notice:  Undefined variable: email in /home/z55piaciqrid/public_html/brazil_pay/administrator/approve_withdraw.php on line 91
+[29-Aug-2019 19:41:57 UTC] PHP Notice:  Undefined variable: administrator in /home/z55piaciqrid/public_html/brazil_pay/administrator/pdo_class_data.php on line 59
